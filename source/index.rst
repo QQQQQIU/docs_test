@@ -12,6 +12,7 @@
 
    /2022/index
    about
+   tecoblas.md
 
 
 
