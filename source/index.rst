@@ -10,9 +10,7 @@
    :maxdepth: 2
    :caption: Contents:
 
-   /2022/index
-   about
-   tecoblas.md
+   tecodnn.md
 
 
 
